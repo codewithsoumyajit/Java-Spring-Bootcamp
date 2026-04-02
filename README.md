@@ -65,9 +65,9 @@ Java-Spring-Bootcamp/
 ## 🧑‍💻 How to Use This Repository
 
 ### 1. Clone the repository
-```
 
-git clone <your-repo-link>
+```bash
+git clone https://github.com/codewithsoumyajit/Java-Spring-Bootcamp.git
 
 ```
 
