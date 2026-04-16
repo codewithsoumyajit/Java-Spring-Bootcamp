@@ -1,4 +1,4 @@
-# ☀️ Day 5 - Warmup Questions (Based on Day 4 - Primitive Data Types & Variables)
+# ☀️ Day 5 - Warmup Questions (Primitive Data Types & Variables)
 
 ## 🤔 Conceptual Questions
 
