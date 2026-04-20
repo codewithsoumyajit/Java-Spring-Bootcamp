@@ -234,7 +234,7 @@ Warning: Insufficient balance
 
 ## 🏁 Submission Guidelines
 
-- 📂 Create a branch: `day1-yourname`  
+- 📂 Create a branch: `day6-yourname`  
 - 📤 Push your solutions  
 - 🧑‍💻 Keep code clean and structured  
 
@@ -247,4 +247,3 @@ Warning: Insufficient balance
 🔥 *The goal is not to finish fast, but to think better.*
 ```
 
----
