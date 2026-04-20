@@ -245,5 +245,4 @@ Warning: Insufficient balance
 > ⚡ *Don’t just write code — understand what your code is doing.*
 
 🔥 *The goal is not to finish fast, but to think better.*
-```
 
