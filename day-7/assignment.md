@@ -614,11 +614,11 @@ GitHub Link:
 
 # 🎯 Pro Tips for Students
 
-✅ Dry-run before coding
-✅ Follow naming conventions
-✅ Avoid writing everything in one line
-✅ Match output format EXACTLY ⚠️
-✅ Use parentheses when confused
+- ✅ Dry-run before coding
+- ✅ Follow naming conventions
+- ✅ Avoid writing everything in one line
+- ✅ Match output format EXACTLY ⚠️
+- ✅ Use parentheses when confused
 
 ---
 
@@ -627,7 +627,7 @@ GitHub Link:
 ```
 Name:
 File Name:
-GitHub Link:
+code:
 ```
 
 ---
@@ -645,8 +645,8 @@ GitHub Link:
 
 # 🚀 Pro Tip
 
-👉 Avoid writing complex expressions in a single line.
-👉 Break problems into smaller steps.
-👉 Always dry-run your code before running.
+- 👉 Avoid writing complex expressions in a single line.
+- 👉 Break problems into smaller steps.
+- 👉 Always dry-run your code before running.
 
 ---
