@@ -1,7 +1,3 @@
-Here’s an **enhanced, clearer, and more student-friendly version** of your notes with better explanations, edge cases, and diagram-style visuals (in Markdown) 👇
-
----
-
 # 📘 Day 6: Naming Conventions & Arithmetic Fundamentals 📚✨
 
 ---
@@ -387,11 +383,11 @@ public class Demo {
 
 # 10. Common Mistakes 🚨
 
-❌ Confusing prefix & postfix
-❌ Ignoring precedence
-❌ Using poor variable names
-❌ Expecting decimal in integer division
-❌ Writing complex expressions like:
+- ❌ Confusing prefix & postfix
+- ❌ Ignoring precedence
+- ❌ Using poor variable names
+- ❌ Expecting decimal in integer division
+- ❌ Writing complex expressions like:
 
 ```java
 a = a++ + ++a + a++;
@@ -420,12 +416,12 @@ a = a++ + ++a + a++;
 
 # 🎯 Final Takeaways
 
-✅ Java is **case-sensitive**
-✅ Always use **meaningful names**
-✅ Understand **operator precedence**
-✅ Master **prefix vs postfix** 🔥
-✅ Avoid **complex expressions in one line**
-✅ Use **parentheses for clarity**
-✅ Remember **implicit casting rules**
+- ✅ Java is **case-sensitive**
+- ✅ Always use **meaningful names**
+- ✅ Understand **operator precedence**
+- ✅ Master **prefix vs postfix** 🔥
+- ✅ Avoid **complex expressions in one line**
+- ✅ Use **parentheses for clarity**
+- ✅ Remember **implicit casting rules**
 
 ---
