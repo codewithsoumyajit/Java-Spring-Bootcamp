@@ -1,8 +1,4 @@
-Perfect — now let’s go **deep into Locale**, not just printing but **how formatting actually changes based on region** 👇
-
----
-
-# 📚 Day X: Locale & Number Formatting (Deep Dive) 🌍🔥
+# 📚 Locale & Number Formatting (Deep Dive) 🌍🔥
 
 ---
 
