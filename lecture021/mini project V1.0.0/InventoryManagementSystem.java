@@ -1,6 +1,6 @@
 /*
   PROBLEM STATEMENT FILE LOCATION :
-    * day-21/Problem-Statement.md
+    * lecture021/Problem-Statement.md
 * */
 
 package com.soumyajit.mini_project;
