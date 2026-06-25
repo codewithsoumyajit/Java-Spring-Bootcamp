@@ -809,7 +809,7 @@ main()
 ```mermaid
 flowchart TD
 
-A["JVM Starts"]
+A[JVM Starts]
 
 A --> B["Find Main Method"]
 
