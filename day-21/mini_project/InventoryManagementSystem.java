@@ -14,6 +14,14 @@ public class InventoryManagementSystem {
 
         Scanner input = new Scanner(System.in);
 
+        System.out.println("\n\nWelcome to the Inventory Management System\n\n");
+
+
+        System.out.println("""
+                *** Note: Please add the products before executing other menu's
+                          Press -> "1" to Add the products
+                """);
+
         while (true) {
 
             String message = """
