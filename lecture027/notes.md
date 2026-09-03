@@ -1,5 +1,3 @@
-# PART 1 — COMPREHENSIVE NOTES
-
 # Java Nested Classes — Comprehensive Notes
 ## Static Nested | Inner | Local | Anonymous Classes
 
